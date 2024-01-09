@@ -16,7 +16,7 @@ Then go to your browser and type http://localhost:5173
 
 ## Online version
 
-You can also see an online version [here](https://choosealicense.com/licenses/mit/)
+You can also see an online version [here](https://safe-travel-codeo.netlify.app)
 
 
 ## To fix
