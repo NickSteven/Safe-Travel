@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 } */
+
+.little-card {
+  transition: .2s background-color ease-out;
+}
+
+.little-card:hover {
+  background-color: #f2e6d9;
+}
+
+.card {
+  transition: .1s transform ease;
+}
+
+.card:hover {
+  transform: translateX(5px);
+}
+
+.menu-link {
+  transition: .1s margin-left ease-in-out;
+}
+
+.menu-link:hover {
+  margin-left: 5px;
+}

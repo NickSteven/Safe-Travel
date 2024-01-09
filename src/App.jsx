@@ -1,10 +1,13 @@
+import Nav from "./components/Nav";
+import Dashboard from "./pages/Dashboard";
 
 function App() {
 
   return (
-    <>
-      <h1 className="text-3xl underline">Hello</h1>
-    </>
+    <div className="bg-[#f4f4f4]">
+
+      <Dashboard />
+    </div>
   )
 }
 
