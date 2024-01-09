@@ -6,7 +6,7 @@ import { IoAnalyticsOutline } from "react-icons/io5";
 const Statistics = () => {
     return (
         <section className='mr-5'>
-            <div className="flex justify-between mt-5 mr-5 items-center">
+            <div className="flex justify-between mt-3 mr-5 items-center">
                 <div className="px-10 py-3 bg-white rounded-lg shadow-sm">
                     <div className="flex gap-5 items-center">
                         <div className="bg-[#f4f4f4] rounded-full py-5 px-5">

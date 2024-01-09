@@ -1,26 +1,26 @@
-import profile1 from '../assets/profile1.jpg'
-import profile2 from '../assets/profile2.jpg'
-import profile3 from '../assets/profile3.jpg'
+import person1 from '../assets/person1.jpg'
+import person2 from '../assets/person2.jpg'
+import person3 from '../assets/person3.jpg'
 
 
 export const artisans = [
     {
         name: "Safidy Hanta",
-        thumbnail: profile1,
+        thumbnail: person1,
         ville: "Antananarivo",
         email: "kenzilawson@example.com",
         total: 150
     },
     {
         name: "Razafy Sambatra",
-        thumbnail: profile2,
+        thumbnail: person2,
         ville: "Antananarivo",
         email: "deanacurtis@example.com",
         total: 10
     },
     {
         name: "Mahonena Malala",
-        thumbnail: profile3,
+        thumbnail: person3,
         ville: "Antananarivo",
         email: "sara.cruz@example.com",
         total: 130
