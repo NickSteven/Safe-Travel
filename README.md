@@ -1,8 +1,23 @@
-# React + Vite
+# Test integration ReactJs Codeo
+This is an integration test with ReactJs by Codeo.
+## Installation
+Clone this repository then open it with a command line then launch the command below
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```bash
+npm install
+```
 
-Currently, two official plugins are available:
+## Launching
+Launch this command 
+```bash
+npm run dev
+```
+Then go to your browser and type http://localhost:5173
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Online version
+
+You can also see an online version [here](https://choosealicense.com/licenses/mit/)
+
+
+## To fix
+Responsive design will be added later
